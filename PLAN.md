@@ -24,6 +24,8 @@ Do 911 calls wait longer for police to arrive in some New York neighborhoods tha
 Fields, confirmed against NYPD's data dictionary (`NYPD_CallsForService_DataDictionary.xlsx`, attached to both call datasets):
 `add_ts` is when the call was added to the system (the job was entered), `disp_ts` when it was dispatched to a responding unit, `arrivd_ts` when the responding unit arrived ("not all calls will have an arrival time"), `closng_ts` when the call was marked closed. `cip_jobs` is the crime-in-progress category (Critical, Serious, Non Critical, or Non CIP for everything else). `radio_code` is the call type and `typ_desc` its description. `nypd_pct_cd` is the precinct. `latitude` and `longitude` are the midblock of the street segment.
 
+Code: the response-time module of disparity-kit (`kit/response/`, branch `response-times`, commit `c56fc99`), run with this folder's `response.json`.
+
 Raw files, one per month, are in `data/raw/<source>/`, each source with `SOURCE.md` and `sources.json` (URL, query, time, row count).
 
 ## What the audit found (out/audit.md)
