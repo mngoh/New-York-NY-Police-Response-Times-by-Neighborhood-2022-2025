@@ -78,3 +78,5 @@ Reviewer questions:
 - Results that favor the police: the headline leads with the Critical result (under the bar) and ends with the within-precinct result; both are in the answer before the less urgent gaps' explanations.
 - Stability: the headline range (28% to 79%) comes from the 2022 to 2025 estimates; the majority-Black end shrank in 2026, which the answer reports.
 - Unmeasured explanations: deployment, other work and dispatch choices are named as not shown; nothing is asserted as the cause.
+
+Rerun 2026-10-08 after shortening the page and the Residents Count article: no writeup flags beyond factual "never"; the data flags are unchanged and still covered (the no-arrival table and caveat on the page, the "Every call" item in the article).
