@@ -1,0 +1,11 @@
+{
+ "locations": 201346,
+ "calls_with_location": 31170059,
+ "share_in_a_neighborhood": 0.9992,
+ "share_in_own_district_polygon": 0.9589,
+ "share_with_station": 1.0,
+ "stations_outside_own_district": [],
+ "districts_without_station": [
+  "0"
+ ]
+}

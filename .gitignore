@@ -1,0 +1,11 @@
+# large or rebuildable files: rebuild with the steps in README.md
+data/raw/**/*.parquet
+data/calls.parquet
+data/points.parquet
+data/duckdb_tmp/
+data/raw/*.log
+out/cache/
+out/shuffled/
+.DS_Store
+__pycache__/
+out/shuffled_run.log

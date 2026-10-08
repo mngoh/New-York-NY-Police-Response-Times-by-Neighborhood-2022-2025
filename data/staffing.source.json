@@ -1,0 +1,11 @@
+{
+ "url": "https://data.cityofnewyork.us/resource/pmsy-ewrc.json?%24select=command%2C+export_date%2C+count%28%2A%29+as+n&%24group=command%2C+export_date&%24limit=5000",
+ "dataset": "https://data.cityofnewyork.us/d/pmsy-ewrc",
+ "export_date": [
+  "2026-10-04"
+ ],
+ "fetched_at": "2026-10-08T14:51:01+00:00",
+ "precincts": 78,
+ "officers": 13968,
+ "all_active_uniformed": 33954
+}

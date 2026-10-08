@@ -1,0 +1,252 @@
+{
+ "title": "Police response times by neighborhood, New York City",
+ "place": {
+  "name": "New York, NY",
+  "short": "New York",
+  "census_geoid": "16000US3651000",
+  "agency": "NYPD",
+  "timezone": "America/New_York"
+ },
+ "sources": {
+  "historic": {
+   "title": "NYPD Calls for Service (Historic), NYC Open Data d6zx-ckhd",
+   "portal": "socrata",
+   "domain": "data.cityofnewyork.us",
+   "dataset": "d6zx-ckhd",
+   "date_field": "create_date",
+   "start": "2022-01-01",
+   "end": "2025-12-31",
+   "columns": [
+    "cad_evnt_id",
+    "create_date",
+    "incident_date",
+    "incident_time",
+    "nypd_pct_cd",
+    "boro_nm",
+    "patrl_boro_nm",
+    "geo_cd_x",
+    "geo_cd_y",
+    "radio_code",
+    "typ_desc",
+    "cip_jobs",
+    "add_ts",
+    "disp_ts",
+    "arrivd_ts",
+    "closng_ts",
+    "latitude",
+    "longitude"
+   ]
+  },
+  "ytd": {
+   "title": "NYPD Calls for Service (Year to Date), NYC Open Data n2zq-pubd, 2026 rows only",
+   "portal": "socrata",
+   "domain": "data.cityofnewyork.us",
+   "dataset": "n2zq-pubd",
+   "date_field": "create_date",
+   "start": "2026-01-01",
+   "end": "2026-06-30",
+   "columns": [
+    "cad_evnt_id",
+    "create_date",
+    "incident_date",
+    "incident_time",
+    "nypd_pct_cd",
+    "boro_nm",
+    "patrl_boro_nm",
+    "geo_cd_x",
+    "geo_cd_y",
+    "radio_code",
+    "typ_desc",
+    "cip_jobs",
+    "add_ts",
+    "disp_ts",
+    "arrivd_ts",
+    "closng_ts",
+    "latitude",
+    "longitude"
+   ]
+  }
+ },
+ "fields": {
+  "event_id": "cad_evnt_id",
+  "t_create": "add_ts",
+  "t_dispatch": "disp_ts",
+  "t_arrive": "arrivd_ts",
+  "t_close": "closng_ts",
+  "priority": "cip_jobs",
+  "call_type": "radio_code",
+  "call_desc": "typ_desc",
+  "district": "nypd_pct_cd",
+  "lat": "latitude",
+  "lon": "longitude",
+  "borough": "boro_nm"
+ },
+ "priority": {
+  "order": [
+   {
+    "value": "Critical",
+    "label": "Critical"
+   },
+   {
+    "value": "Serious",
+    "label": "Serious"
+   },
+   {
+    "value": "Non Critical",
+    "label": "Non-critical"
+   },
+   {
+    "value": "Non CIP",
+    "label": "Not a crime in progress"
+   }
+  ],
+  "note": "NYPD's crime-in-progress (CIP) category. Critical, Serious and Non Critical are crimes in progress; Non CIP is every other call."
+ },
+ "origin": [
+  {
+   "origin": "sensor",
+   "rule": "ShotSpotter alert (10S4)",
+   "where": "call_type = '10S4'"
+  },
+  {
+   "origin": "officer",
+   "rule": "directed patrols, visits and inspections (75 codes)",
+   "where": "call_type LIKE '75%'"
+  },
+  {
+   "origin": "officer",
+   "rule": "officer asks for assistance (13 codes)",
+   "where": "call_type LIKE '13%'"
+  },
+  {
+   "origin": "on_scene",
+   "rule": "arrival logged in the same second as entry or dispatch",
+   "where": "t_arrive IS NOT NULL AND (t_arrive = t_create OR t_arrive = t_dispatch)"
+  }
+ ],
+ "periods": {
+  "2022-23": [
+   "2022-01-01",
+   "2023-12-31"
+  ],
+  "2024-25": [
+   "2024-01-01",
+   "2025-12-31"
+  ],
+  "2026 holdout": [
+   "2026-01-01",
+   "2026-06-30"
+  ]
+ },
+ "geo": {
+  "neighborhoods": {
+   "url": "https://data.cityofnewyork.us/resource/9nt8-h7nd.geojson?$limit=1000",
+   "id": "nta2020",
+   "name": "ntaname",
+   "area": "boroname",
+   "residential": {
+    "field": "ntatype",
+    "values": [
+     "0"
+    ]
+   },
+   "min_pop": 1000,
+   "unit": "neighborhood",
+   "unit_long": "Neighborhood Tabulation Area (2020)",
+   "source": "NYC Department of City Planning, NYC Open Data 9nt8-h7nd"
+  },
+  "districts": {
+   "url": "https://data.cityofnewyork.us/resource/y76i-bdw7.geojson?$limit=1000",
+   "id": "precinct",
+   "unit": "precinct",
+   "source": "NYC Open Data y76i-bdw7"
+  },
+  "tracts": {
+   "url": "https://data.cityofnewyork.us/resource/63ge-mke6.geojson?$limit=5000",
+   "geoid": "geoid",
+   "neighborhood": "nta2020",
+   "source": "NYC Open Data 63ge-mke6"
+  },
+  "stations": "data/stations.csv",
+  "staffing": "data/staffing.csv"
+ },
+ "census": {
+  "release": "acs2024_5yr",
+  "tracts_geo": "140|16000US3651000"
+ },
+ "analysis": {
+  "origins": [
+   "public"
+  ],
+  "main_periods": [
+   "2022-23",
+   "2024-25"
+  ],
+  "main_years": 4,
+  "groupings": {
+   "income": {
+    "column": "income_quintile",
+    "label": "Neighborhood income",
+    "levels": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "reference": 5,
+    "level_labels": {
+     "1": "Lowest-income fifth",
+     "2": "Second fifth",
+     "3": "Middle fifth",
+     "4": "Fourth fifth",
+     "5": "Highest-income fifth"
+    }
+   },
+   "makeup": {
+    "column": "makeup",
+    "label": "Neighborhood racial and ethnic makeup",
+    "levels": [
+     "Black",
+     "Hispanic",
+     "Asian",
+     "No majority",
+     "White"
+    ],
+    "reference": "White",
+    "level_labels": {
+     "Black": "Majority-Black",
+     "Hispanic": "Majority-Hispanic",
+     "Asian": "Majority-Asian",
+     "No majority": "No majority",
+     "White": "Majority-White"
+    }
+   }
+  },
+  "primary_comparisons": {
+   "income": [
+    1
+   ],
+   "makeup": [
+    "Black",
+    "Hispanic",
+    "Asian",
+    "No majority"
+   ]
+  },
+  "call_type_min": 200,
+  "volume_bands": 5,
+  "thresholds": {
+   "Critical": {
+    "minutes": 2
+   },
+   "default": {
+    "percent": 20
+   }
+  },
+  "bootstrap": 2000,
+  "seed": 20261008,
+  "alpha": 0.05,
+  "min_group_neighborhoods": 10
+ }
+}

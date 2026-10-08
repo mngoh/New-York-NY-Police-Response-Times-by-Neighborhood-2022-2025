@@ -1,0 +1,6 @@
+{
+ "list": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts-landing.page",
+ "geocoder": "https://geosearch.planninglabs.nyc/v2/search",
+ "fetched_at": "2026-10-08T14:50:35+00:00",
+ "rows": 78
+}

@@ -1,0 +1,66 @@
+{
+ "dataset": "n2zq-pubd",
+ "date_field": "create_date",
+ "domain": "data.cityofnewyork.us",
+ "end": "2026-06-30",
+ "months": {
+  "2026-01": {
+   "fetched_at": "2026-10-08T14:43:16+00:00",
+   "order": ":id",
+   "page_size": 500000,
+   "rows": 561048,
+   "select": "cad_evnt_id,create_date,incident_date,incident_time,nypd_pct_cd,boro_nm,patrl_boro_nm,geo_cd_x,geo_cd_y,radio_code,typ_desc,cip_jobs,add_ts,disp_ts,arrivd_ts,closng_ts,latitude,longitude",
+   "url": "https://data.cityofnewyork.us/resource/n2zq-pubd.csv?%24select=cad_evnt_id%2Ccreate_date%2Cincident_date%2Cincident_time%2Cnypd_pct_cd%2Cboro_nm%2Cpatrl_boro_nm%2Cgeo_cd_x%2Cgeo_cd_y%2Cradio_code%2Ctyp_desc%2Ccip_jobs%2Cadd_ts%2Cdisp_ts%2Carrivd_ts%2Cclosng_ts%2Clatitude%2Clongitude&%24where=create_date+%3E%3D+%272026-01-01T00%3A00%3A00%27+AND+create_date+%3C+%272026-02-01T00%3A00%3A00%27&%24order=%3Aid",
+   "where": "create_date >= '2026-01-01T00:00:00' AND create_date < '2026-02-01T00:00:00'"
+  },
+  "2026-02": {
+   "fetched_at": "2026-10-08T14:43:29+00:00",
+   "order": ":id",
+   "page_size": 500000,
+   "rows": 519437,
+   "select": "cad_evnt_id,create_date,incident_date,incident_time,nypd_pct_cd,boro_nm,patrl_boro_nm,geo_cd_x,geo_cd_y,radio_code,typ_desc,cip_jobs,add_ts,disp_ts,arrivd_ts,closng_ts,latitude,longitude",
+   "url": "https://data.cityofnewyork.us/resource/n2zq-pubd.csv?%24select=cad_evnt_id%2Ccreate_date%2Cincident_date%2Cincident_time%2Cnypd_pct_cd%2Cboro_nm%2Cpatrl_boro_nm%2Cgeo_cd_x%2Cgeo_cd_y%2Cradio_code%2Ctyp_desc%2Ccip_jobs%2Cadd_ts%2Cdisp_ts%2Carrivd_ts%2Cclosng_ts%2Clatitude%2Clongitude&%24where=create_date+%3E%3D+%272026-02-01T00%3A00%3A00%27+AND+create_date+%3C+%272026-03-01T00%3A00%3A00%27&%24order=%3Aid",
+   "where": "create_date >= '2026-02-01T00:00:00' AND create_date < '2026-03-01T00:00:00'"
+  },
+  "2026-03": {
+   "fetched_at": "2026-10-08T14:42:47+00:00",
+   "order": ":id",
+   "page_size": 500000,
+   "rows": 602709,
+   "select": "cad_evnt_id,create_date,incident_date,incident_time,nypd_pct_cd,boro_nm,patrl_boro_nm,geo_cd_x,geo_cd_y,radio_code,typ_desc,cip_jobs,add_ts,disp_ts,arrivd_ts,closng_ts,latitude,longitude",
+   "url": "https://data.cityofnewyork.us/resource/n2zq-pubd.csv?%24select=cad_evnt_id%2Ccreate_date%2Cincident_date%2Cincident_time%2Cnypd_pct_cd%2Cboro_nm%2Cpatrl_boro_nm%2Cgeo_cd_x%2Cgeo_cd_y%2Cradio_code%2Ctyp_desc%2Ccip_jobs%2Cadd_ts%2Cdisp_ts%2Carrivd_ts%2Cclosng_ts%2Clatitude%2Clongitude&%24where=create_date+%3E%3D+%272026-03-01T00%3A00%3A00%27+AND+create_date+%3C+%272026-04-01T00%3A00%3A00%27&%24order=%3Aid",
+   "where": "create_date >= '2026-03-01T00:00:00' AND create_date < '2026-04-01T00:00:00'"
+  },
+  "2026-04": {
+   "fetched_at": "2026-10-08T14:45:04+00:00",
+   "order": ":id",
+   "page_size": 500000,
+   "rows": 581268,
+   "select": "cad_evnt_id,create_date,incident_date,incident_time,nypd_pct_cd,boro_nm,patrl_boro_nm,geo_cd_x,geo_cd_y,radio_code,typ_desc,cip_jobs,add_ts,disp_ts,arrivd_ts,closng_ts,latitude,longitude",
+   "url": "https://data.cityofnewyork.us/resource/n2zq-pubd.csv?%24select=cad_evnt_id%2Ccreate_date%2Cincident_date%2Cincident_time%2Cnypd_pct_cd%2Cboro_nm%2Cpatrl_boro_nm%2Cgeo_cd_x%2Cgeo_cd_y%2Cradio_code%2Ctyp_desc%2Ccip_jobs%2Cadd_ts%2Cdisp_ts%2Carrivd_ts%2Cclosng_ts%2Clatitude%2Clongitude&%24where=create_date+%3E%3D+%272026-04-01T00%3A00%3A00%27+AND+create_date+%3C+%272026-05-01T00%3A00%3A00%27&%24order=%3Aid",
+   "where": "create_date >= '2026-04-01T00:00:00' AND create_date < '2026-05-01T00:00:00'"
+  },
+  "2026-05": {
+   "fetched_at": "2026-10-08T14:43:59+00:00",
+   "order": ":id",
+   "page_size": 500000,
+   "rows": 615774,
+   "select": "cad_evnt_id,create_date,incident_date,incident_time,nypd_pct_cd,boro_nm,patrl_boro_nm,geo_cd_x,geo_cd_y,radio_code,typ_desc,cip_jobs,add_ts,disp_ts,arrivd_ts,closng_ts,latitude,longitude",
+   "url": "https://data.cityofnewyork.us/resource/n2zq-pubd.csv?%24select=cad_evnt_id%2Ccreate_date%2Cincident_date%2Cincident_time%2Cnypd_pct_cd%2Cboro_nm%2Cpatrl_boro_nm%2Cgeo_cd_x%2Cgeo_cd_y%2Cradio_code%2Ctyp_desc%2Ccip_jobs%2Cadd_ts%2Cdisp_ts%2Carrivd_ts%2Cclosng_ts%2Clatitude%2Clongitude&%24where=create_date+%3E%3D+%272026-05-01T00%3A00%3A00%27+AND+create_date+%3C+%272026-06-01T00%3A00%3A00%27&%24order=%3Aid",
+   "where": "create_date >= '2026-05-01T00:00:00' AND create_date < '2026-06-01T00:00:00'"
+  },
+  "2026-06": {
+   "fetched_at": "2026-10-08T14:45:27+00:00",
+   "order": ":id",
+   "page_size": 500000,
+   "rows": 565159,
+   "select": "cad_evnt_id,create_date,incident_date,incident_time,nypd_pct_cd,boro_nm,patrl_boro_nm,geo_cd_x,geo_cd_y,radio_code,typ_desc,cip_jobs,add_ts,disp_ts,arrivd_ts,closng_ts,latitude,longitude",
+   "url": "https://data.cityofnewyork.us/resource/n2zq-pubd.csv?%24select=cad_evnt_id%2Ccreate_date%2Cincident_date%2Cincident_time%2Cnypd_pct_cd%2Cboro_nm%2Cpatrl_boro_nm%2Cgeo_cd_x%2Cgeo_cd_y%2Cradio_code%2Ctyp_desc%2Ccip_jobs%2Cadd_ts%2Cdisp_ts%2Carrivd_ts%2Cclosng_ts%2Clatitude%2Clongitude&%24where=create_date+%3E%3D+%272026-06-01T00%3A00%3A00%27+AND+create_date+%3C+%272026-07-01T00%3A00%3A00%27&%24order=%3Aid",
+   "where": "create_date >= '2026-06-01T00:00:00' AND create_date < '2026-07-01T00:00:00'"
+  }
+ },
+ "page": "https://data.cityofnewyork.us/d/n2zq-pubd",
+ "portal": "socrata",
+ "rows": 3445395,
+ "start": "2026-01-01"
+}

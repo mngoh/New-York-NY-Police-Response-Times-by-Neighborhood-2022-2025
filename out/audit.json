@@ -1,0 +1,1190 @@
+{
+ "monthly": [
+  {
+   "m": "2022-01",
+   "n": 564192,
+   "arr": 0.8380019567806705,
+   "pub": 0.4458145454029834,
+   "flag": ""
+  },
+  {
+   "m": "2022-02",
+   "n": 515432,
+   "arr": 0.8304936441664468,
+   "pub": 0.4589334771609058,
+   "flag": ""
+  },
+  {
+   "m": "2022-03",
+   "n": 616044,
+   "arr": 0.8386884703040692,
+   "pub": 0.4391829155060353,
+   "flag": ""
+  },
+  {
+   "m": "2022-04",
+   "n": 599396,
+   "arr": 0.8347820138939867,
+   "pub": 0.4460373442598883,
+   "flag": ""
+  },
+  {
+   "m": "2022-05",
+   "n": 629230,
+   "arr": 0.8230488056831365,
+   "pub": 0.46706450741382327,
+   "flag": ""
+  },
+  {
+   "m": "2022-06",
+   "n": 608119,
+   "arr": 0.8111257829470877,
+   "pub": 0.4875526007245293,
+   "flag": ""
+  },
+  {
+   "m": "2022-07",
+   "n": 611492,
+   "arr": 0.8071928986806042,
+   "pub": 0.493087399344554,
+   "flag": ""
+  },
+  {
+   "m": "2022-08",
+   "n": 594472,
+   "arr": 0.8130324052268232,
+   "pub": 0.4907464102598609,
+   "flag": ""
+  },
+  {
+   "m": "2022-09",
+   "n": 578729,
+   "arr": 0.812824309823769,
+   "pub": 0.49026400957961325,
+   "flag": ""
+  },
+  {
+   "m": "2022-10",
+   "n": 638135,
+   "arr": 0.8265398387488541,
+   "pub": 0.4499392761719699,
+   "flag": ""
+  },
+  {
+   "m": "2022-11",
+   "n": 620599,
+   "arr": 0.8302478734255131,
+   "pub": 0.4402391882681087,
+   "flag": ""
+  },
+  {
+   "m": "2022-12",
+   "n": 595338,
+   "arr": 0.8202516889565256,
+   "pub": 0.46556745915765496,
+   "flag": ""
+  },
+  {
+   "m": "2023-01",
+   "n": 627042,
+   "arr": 0.840064939828592,
+   "pub": 0.42726484031372697,
+   "flag": ""
+  },
+  {
+   "m": "2023-02",
+   "n": 562597,
+   "arr": 0.8394285785384564,
+   "pub": 0.4311363196035528,
+   "flag": ""
+  },
+  {
+   "m": "2023-03",
+   "n": 617162,
+   "arr": 0.830707334541012,
+   "pub": 0.4527433639789877,
+   "flag": ""
+  },
+  {
+   "m": "2023-04",
+   "n": 557188,
+   "arr": 0.8177814310430231,
+   "pub": 0.4911340517024774,
+   "flag": ""
+  },
+  {
+   "m": "2023-05",
+   "n": 598985,
+   "arr": 0.8049216591400452,
+   "pub": 0.5101964156030618,
+   "flag": ""
+  },
+  {
+   "m": "2023-06",
+   "n": 557022,
+   "arr": 0.7931787254363383,
+   "pub": 0.5369859718287608,
+   "flag": ""
+  },
+  {
+   "m": "2023-07",
+   "n": 555769,
+   "arr": 0.7826489062902033,
+   "pub": 0.5559090197546103,
+   "flag": ""
+  },
+  {
+   "m": "2023-08",
+   "n": 539627,
+   "arr": 0.7949120410950526,
+   "pub": 0.5417390160240314,
+   "flag": ""
+  },
+  {
+   "m": "2023-09",
+   "n": 532930,
+   "arr": 0.7916799579682134,
+   "pub": 0.541442590959413,
+   "flag": ""
+  },
+  {
+   "m": "2023-10",
+   "n": 578290,
+   "arr": 0.8052499610921856,
+   "pub": 0.5184717010496463,
+   "flag": ""
+  },
+  {
+   "m": "2023-11",
+   "n": 542041,
+   "arr": 0.8154899721607775,
+   "pub": 0.5105923721637293,
+   "flag": ""
+  },
+  {
+   "m": "2023-12",
+   "n": 547409,
+   "arr": 0.8054544225615582,
+   "pub": 0.5222913762835467,
+   "flag": ""
+  },
+  {
+   "m": "2024-01",
+   "n": 561760,
+   "arr": 0.8228834377670179,
+   "pub": 0.491085160922814,
+   "flag": ""
+  },
+  {
+   "m": "2024-02",
+   "n": 552557,
+   "arr": 0.8384220994395148,
+   "pub": 0.4682087096896791,
+   "flag": ""
+  },
+  {
+   "m": "2024-03",
+   "n": 636561,
+   "arr": 0.8409877450864882,
+   "pub": 0.44369510541801965,
+   "flag": ""
+  },
+  {
+   "m": "2024-04",
+   "n": 583556,
+   "arr": 0.8268975042669426,
+   "pub": 0.469990883479906,
+   "flag": ""
+  },
+  {
+   "m": "2024-05",
+   "n": 608774,
+   "arr": 0.8039502344055429,
+   "pub": 0.5061549934786965,
+   "flag": ""
+  },
+  {
+   "m": "2024-06",
+   "n": 588936,
+   "arr": 0.7854860290422049,
+   "pub": 0.528013230639662,
+   "flag": ""
+  },
+  {
+   "m": "2024-07",
+   "n": 582799,
+   "arr": 0.7892601051134267,
+   "pub": 0.5335287123004673,
+   "flag": ""
+  },
+  {
+   "m": "2024-08",
+   "n": 582918,
+   "arr": 0.8003046740707955,
+   "pub": 0.5144943199558085,
+   "flag": ""
+  },
+  {
+   "m": "2024-09",
+   "n": 568591,
+   "arr": 0.8011699094779904,
+   "pub": 0.514980011994562,
+   "flag": ""
+  },
+  {
+   "m": "2024-10",
+   "n": 612394,
+   "arr": 0.8099687456114855,
+   "pub": 0.494593350032822,
+   "flag": ""
+  },
+  {
+   "m": "2024-11",
+   "n": 553993,
+   "arr": 0.8101618612509545,
+   "pub": 0.5156527248539241,
+   "flag": ""
+  },
+  {
+   "m": "2024-12",
+   "n": 539126,
+   "arr": 0.8042980676131368,
+   "pub": 0.5243579422992027,
+   "flag": ""
+  },
+  {
+   "m": "2025-01",
+   "n": 557873,
+   "arr": 0.8217873960560916,
+   "pub": 0.47772163198434053,
+   "flag": ""
+  },
+  {
+   "m": "2025-02",
+   "n": 517675,
+   "arr": 0.8307393635002656,
+   "pub": 0.4734263775534843,
+   "flag": ""
+  },
+  {
+   "m": "2025-03",
+   "n": 584859,
+   "arr": 0.8222050100964506,
+   "pub": 0.4899796361174232,
+   "flag": ""
+  },
+  {
+   "m": "2025-04",
+   "n": 570709,
+   "arr": 0.8196979546493922,
+   "pub": 0.49570096143568787,
+   "flag": ""
+  },
+  {
+   "m": "2025-05",
+   "n": 610138,
+   "arr": 0.812021214872701,
+   "pub": 0.49880846628139863,
+   "flag": ""
+  },
+  {
+   "m": "2025-06",
+   "n": 597729,
+   "arr": 0.7928710167985826,
+   "pub": 0.5198308932643388,
+   "flag": ""
+  },
+  {
+   "m": "2025-07",
+   "n": 578271,
+   "arr": 0.7770906720205578,
+   "pub": 0.5473316144160782,
+   "flag": ""
+  },
+  {
+   "m": "2025-08",
+   "n": 578804,
+   "arr": 0.7820937657652677,
+   "pub": 0.5358394205983372,
+   "flag": ""
+  },
+  {
+   "m": "2025-09",
+   "n": 588768,
+   "arr": 0.7814741969672265,
+   "pub": 0.5291795749769009,
+   "flag": ""
+  },
+  {
+   "m": "2025-10",
+   "n": 594036,
+   "arr": 0.7825283316162657,
+   "pub": 0.5287996013709607,
+   "flag": ""
+  },
+  {
+   "m": "2025-11",
+   "n": 544425,
+   "arr": 0.7837259493961519,
+   "pub": 0.5430591908894705,
+   "flag": ""
+  },
+  {
+   "m": "2025-12",
+   "n": 535014,
+   "arr": 0.7667332069814996,
+   "pub": 0.5612600791754982,
+   "flag": ""
+  },
+  {
+   "m": "2026-01",
+   "n": 546029,
+   "arr": 0.7835719348239746,
+   "pub": 0.5322666012244771,
+   "flag": ""
+  },
+  {
+   "m": "2026-02",
+   "n": 505730,
+   "arr": 0.762487888794416,
+   "pub": 0.5488561089909636,
+   "flag": ""
+  },
+  {
+   "m": "2026-03",
+   "n": 586505,
+   "arr": 0.7731562390772457,
+   "pub": 0.5272043716592356,
+   "flag": ""
+  },
+  {
+   "m": "2026-04",
+   "n": 566136,
+   "arr": 0.7752183220992835,
+   "pub": 0.5279137874998233,
+   "flag": ""
+  },
+  {
+   "m": "2026-05",
+   "n": 599401,
+   "arr": 0.757576313686497,
+   "pub": 0.543936363135864,
+   "flag": ""
+  },
+  {
+   "m": "2026-06",
+   "n": 548752,
+   "arr": 0.7246789077761904,
+   "pub": 0.5950939586552759,
+   "flag": ""
+  }
+ ],
+ "hour_low": 5,
+ "origin": [
+  {
+   "priority": "Non CIP",
+   "origin": "public",
+   "origin_rule": "none",
+   "n": 13575187
+  },
+  {
+   "priority": "Critical",
+   "origin": "sensor",
+   "origin_rule": "ShotSpotter alert (10S4)",
+   "n": 45114
+  },
+  {
+   "priority": "Critical",
+   "origin": "public",
+   "origin_rule": "none",
+   "n": 271502
+  },
+  {
+   "priority": "Non CIP",
+   "origin": "officer",
+   "origin_rule": "directed patrols, visits and inspections (75 codes)",
+   "n": 11827406
+  },
+  {
+   "priority": "Serious",
+   "origin": "public",
+   "origin_rule": "none",
+   "n": 684115
+  },
+  {
+   "priority": "Non Critical",
+   "origin": "on_scene",
+   "origin_rule": "arrival logged in the same second as entry or dispatch",
+   "n": 94579
+  },
+  {
+   "priority": "Critical",
+   "origin": "officer",
+   "origin_rule": "officer asks for assistance (13 codes)",
+   "n": 26626
+  },
+  {
+   "priority": "Serious",
+   "origin": "on_scene",
+   "origin_rule": "arrival logged in the same second as entry or dispatch",
+   "n": 18314
+  },
+  {
+   "priority": "Critical",
+   "origin": "on_scene",
+   "origin_rule": "arrival logged in the same second as entry or dispatch",
+   "n": 2865
+  },
+  {
+   "priority": "Non CIP",
+   "origin": "on_scene",
+   "origin_rule": "arrival logged in the same second as entry or dispatch",
+   "n": 3545133
+  },
+  {
+   "priority": "Non Critical",
+   "origin": "public",
+   "origin_rule": "none",
+   "n": 1079218
+  }
+ ],
+ "flags_public": [
+  {
+   "priority": "Non Critical",
+   "n": 1079218,
+   "missing_arrival": 0.14605112220144587,
+   "missing_dispatch": 0.0,
+   "arrival_before_entry": 2.7126824414576002e-05,
+   "dispatch_before_entry": 8.339371656143614e-06,
+   "arrival_before_dispatch": 2.278653250824384e-05,
+   "over_24h": 0.0,
+   "no_location": 0.0,
+   "no_neighborhood": 0.00020848429140359038,
+   "nonresidential": 0.01189009078795943,
+   "duplicate_entries": 0.008061392600938829
+  },
+  {
+   "priority": "Serious",
+   "n": 684115,
+   "missing_arrival": 0.05964201925114929,
+   "missing_dispatch": 0.0,
+   "arrival_before_entry": 1.3990079479195975e-05,
+   "dispatch_before_entry": 5.846970173143405e-06,
+   "arrival_before_dispatch": 7.772266377331096e-06,
+   "over_24h": 0.0,
+   "no_location": 0.0,
+   "no_neighborhood": 0.00026165191524816735,
+   "nonresidential": 0.010764272088757007,
+   "duplicate_entries": 0.02066026910680222
+  },
+  {
+   "priority": "Critical",
+   "n": 271502,
+   "missing_arrival": 0.03892420681983926,
+   "missing_dispatch": 0.0,
+   "arrival_before_entry": 1.5329546935240328e-05,
+   "dispatch_before_entry": 1.1049642359908951e-05,
+   "arrival_before_dispatch": 7.664773467620164e-06,
+   "over_24h": 0.0,
+   "no_location": 0.0,
+   "no_neighborhood": 0.0002430921319179969,
+   "nonresidential": 0.012209854807699391,
+   "duplicate_entries": 0.043159903057804365
+  },
+  {
+   "priority": "Non CIP",
+   "n": 13575187,
+   "missing_arrival": 0.40524679328542584,
+   "missing_dispatch": 7.366381030331295e-08,
+   "arrival_before_entry": 1.7463709544573702e-05,
+   "dispatch_before_entry": 9.87095130777582e-06,
+   "arrival_before_dispatch": 1.6349004680026446e-05,
+   "over_24h": 6.935941379405159e-06,
+   "no_location": 0.0,
+   "no_neighborhood": 0.000956377249167912,
+   "nonresidential": 0.01924091358741504,
+   "duplicate_entries": 0.06253011468644962
+  }
+ ],
+ "flags_all": [
+  {
+   "priority": "Serious",
+   "n": 702429,
+   "missing_arrival": 0.05808700950558704,
+   "missing_dispatch": 0.0,
+   "arrival_before_entry": 1.3602830597904862e-05,
+   "dispatch_before_entry": 5.6945257100717654e-06,
+   "arrival_before_dispatch": 7.557128109947146e-06,
+   "over_24h": 0.0,
+   "no_location": 0.0,
+   "no_neighborhood": 0.00026052455123578324,
+   "nonresidential": 0.010785431694875924,
+   "duplicate_entries": 0.02059282859904702
+  },
+  {
+   "priority": "Non Critical",
+   "n": 1173797,
+   "missing_arrival": 0.13428301486543243,
+   "missing_dispatch": 0.0,
+   "arrival_before_entry": 2.4602037442332823e-05,
+   "dispatch_before_entry": 7.667424605787884e-06,
+   "arrival_before_dispatch": 2.0665711451559574e-05,
+   "over_24h": 0.0,
+   "no_location": 0.0,
+   "no_neighborhood": 0.00019338948727931662,
+   "nonresidential": 0.013320020412388172,
+   "duplicate_entries": 0.007602677464672341
+  },
+  {
+   "priority": "Non CIP",
+   "n": 28947726,
+   "missing_arrival": 0.20177792203781394,
+   "missing_dispatch": 3.4545027820147256e-08,
+   "arrival_before_entry": 6.318509849561474e-06,
+   "dispatch_before_entry": 4.663578916823343e-06,
+   "arrival_before_dispatch": 5.8857352023312355e-06,
+   "over_24h": 2.51009295393538e-06,
+   "no_location": 0.0,
+   "no_neighborhood": 0.0008291497577391744,
+   "nonresidential": 0.020519781070195288,
+   "duplicate_entries": 0.03033371256864874
+  },
+  {
+   "priority": "Critical",
+   "n": 346107,
+   "missing_arrival": 0.039083289271814786,
+   "missing_dispatch": 0.0,
+   "arrival_before_entry": 1.503397678753984e-05,
+   "dispatch_before_entry": 8.667839714308002e-06,
+   "arrival_before_dispatch": 9.020386072523904e-06,
+   "over_24h": 0.0,
+   "no_location": 0.0,
+   "no_neighborhood": 0.00039005278714386013,
+   "nonresidential": 0.013579615552415871,
+   "duplicate_entries": 0.10926389815866192
+  }
+ ],
+ "neighborhood_spread": [
+  {
+   "Priority": "Critical",
+   "Check": "No arrival time",
+   "Neighborhoods": 194,
+   "Lowest": "0.2%",
+   "10th pct": "1.3%",
+   "Median": "2.5%",
+   "90th pct": "4.6%",
+   "Highest": "42.7%"
+  },
+  {
+   "Priority": "Critical",
+   "Check": "Wait over 24 hours",
+   "Neighborhoods": 194,
+   "Lowest": "0.0%",
+   "10th pct": "0.0%",
+   "Median": "0.0%",
+   "90th pct": "0.0%",
+   "Highest": "0.0%"
+  },
+  {
+   "Priority": "Critical",
+   "Check": "Arrival before entry",
+   "Neighborhoods": 194,
+   "Lowest": "0.0%",
+   "10th pct": "0.0%",
+   "Median": "0.0%",
+   "90th pct": "0.0%",
+   "Highest": "0.2%"
+  },
+  {
+   "Priority": "Critical",
+   "Check": "Event entered more than once",
+   "Neighborhoods": 194,
+   "Lowest": "1.8%",
+   "10th pct": "3.1%",
+   "Median": "4.3%",
+   "90th pct": "5.8%",
+   "Highest": "7.3%"
+  },
+  {
+   "Priority": "Critical",
+   "Check": "Not from the public (all events)",
+   "Neighborhoods": 194,
+   "Lowest": "2.0%",
+   "10th pct": "5.3%",
+   "Median": "17.4%",
+   "90th pct": "33.8%",
+   "Highest": "49.8%"
+  },
+  {
+   "Priority": "Critical",
+   "Check": "Unit on scene at entry (all events)",
+   "Neighborhoods": 194,
+   "Lowest": "0.0%",
+   "10th pct": "0.1%",
+   "Median": "0.5%",
+   "90th pct": "1.4%",
+   "Highest": "3.1%"
+  },
+  {
+   "Priority": "Serious",
+   "Check": "No arrival time",
+   "Neighborhoods": 197,
+   "Lowest": "1.6%",
+   "10th pct": "2.5%",
+   "Median": "4.3%",
+   "90th pct": "8.0%",
+   "Highest": "27.5%"
+  },
+  {
+   "Priority": "Serious",
+   "Check": "Wait over 24 hours",
+   "Neighborhoods": 197,
+   "Lowest": "0.0%",
+   "10th pct": "0.0%",
+   "Median": "0.0%",
+   "90th pct": "0.0%",
+   "Highest": "0.0%"
+  },
+  {
+   "Priority": "Serious",
+   "Check": "Arrival before entry",
+   "Neighborhoods": 197,
+   "Lowest": "0.0%",
+   "10th pct": "0.0%",
+   "Median": "0.0%",
+   "90th pct": "0.0%",
+   "Highest": "0.1%"
+  },
+  {
+   "Priority": "Serious",
+   "Check": "Event entered more than once",
+   "Neighborhoods": 197,
+   "Lowest": "1.0%",
+   "10th pct": "1.4%",
+   "Median": "2.2%",
+   "90th pct": "3.2%",
+   "Highest": "8.6%"
+  },
+  {
+   "Priority": "Serious",
+   "Check": "Not from the public (all events)",
+   "Neighborhoods": 197,
+   "Lowest": "0.1%",
+   "10th pct": "0.5%",
+   "Median": "1.4%",
+   "90th pct": "3.8%",
+   "Highest": "11.0%"
+  },
+  {
+   "Priority": "Serious",
+   "Check": "Unit on scene at entry (all events)",
+   "Neighborhoods": 197,
+   "Lowest": "0.1%",
+   "10th pct": "0.5%",
+   "Median": "1.4%",
+   "90th pct": "3.8%",
+   "Highest": "11.0%"
+  },
+  {
+   "Priority": "Non-critical",
+   "Check": "No arrival time",
+   "Neighborhoods": 197,
+   "Lowest": "4.5%",
+   "10th pct": "6.5%",
+   "Median": "10.3%",
+   "90th pct": "20.5%",
+   "Highest": "30.7%"
+  },
+  {
+   "Priority": "Non-critical",
+   "Check": "Wait over 24 hours",
+   "Neighborhoods": 197,
+   "Lowest": "0.0%",
+   "10th pct": "0.0%",
+   "Median": "0.0%",
+   "90th pct": "0.0%",
+   "Highest": "0.0%"
+  },
+  {
+   "Priority": "Non-critical",
+   "Check": "Arrival before entry",
+   "Neighborhoods": 197,
+   "Lowest": "0.0%",
+   "10th pct": "0.0%",
+   "Median": "0.0%",
+   "90th pct": "0.0%",
+   "Highest": "0.0%"
+  },
+  {
+   "Priority": "Non-critical",
+   "Check": "Event entered more than once",
+   "Neighborhoods": 197,
+   "Lowest": "0.2%",
+   "10th pct": "0.5%",
+   "Median": "0.8%",
+   "90th pct": "1.3%",
+   "Highest": "3.2%"
+  },
+  {
+   "Priority": "Non-critical",
+   "Check": "Not from the public (all events)",
+   "Neighborhoods": 197,
+   "Lowest": "0.0%",
+   "10th pct": "0.1%",
+   "Median": "2.4%",
+   "90th pct": "13.7%",
+   "Highest": "32.3%"
+  },
+  {
+   "Priority": "Non-critical",
+   "Check": "Unit on scene at entry (all events)",
+   "Neighborhoods": 197,
+   "Lowest": "0.0%",
+   "10th pct": "0.1%",
+   "Median": "2.4%",
+   "90th pct": "13.7%",
+   "Highest": "32.3%"
+  },
+  {
+   "Priority": "Not a crime in progress",
+   "Check": "No arrival time",
+   "Neighborhoods": 197,
+   "Lowest": "26.2%",
+   "10th pct": "31.2%",
+   "Median": "38.5%",
+   "90th pct": "47.3%",
+   "Highest": "57.8%"
+  },
+  {
+   "Priority": "Not a crime in progress",
+   "Check": "Wait over 24 hours",
+   "Neighborhoods": 197,
+   "Lowest": "0.0%",
+   "10th pct": "0.0%",
+   "Median": "0.0%",
+   "90th pct": "0.0%",
+   "Highest": "0.0%"
+  },
+  {
+   "Priority": "Not a crime in progress",
+   "Check": "Arrival before entry",
+   "Neighborhoods": 197,
+   "Lowest": "0.0%",
+   "10th pct": "0.0%",
+   "Median": "0.0%",
+   "90th pct": "0.0%",
+   "Highest": "0.0%"
+  },
+  {
+   "Priority": "Not a crime in progress",
+   "Check": "Event entered more than once",
+   "Neighborhoods": 197,
+   "Lowest": "3.1%",
+   "10th pct": "4.7%",
+   "Median": "6.1%",
+   "90th pct": "7.6%",
+   "Highest": "12.6%"
+  },
+  {
+   "Priority": "Not a crime in progress",
+   "Check": "Not from the public (all events)",
+   "Neighborhoods": 197,
+   "Lowest": "20.0%",
+   "10th pct": "29.9%",
+   "Median": "48.4%",
+   "90th pct": "62.9%",
+   "Highest": "77.1%"
+  },
+  {
+   "Priority": "Not a crime in progress",
+   "Check": "Unit on scene at entry (all events)",
+   "Neighborhoods": 197,
+   "Lowest": "4.8%",
+   "10th pct": "7.7%",
+   "Median": "11.7%",
+   "90th pct": "16.1%",
+   "Highest": "23.9%"
+  }
+ ],
+ "repeat_locations": [
+  {
+   "priority": "Serious",
+   "nbhd_name": "Upper West Side-Manhattan Valley",
+   "n": 1122,
+   "no_arr": 1062.0,
+   "closed_2min": 0.7156862745098039
+  },
+  {
+   "priority": "Critical",
+   "nbhd_name": "Upper West Side-Manhattan Valley",
+   "n": 694,
+   "no_arr": 629.0,
+   "closed_2min": 0.7031700288184438
+  },
+  {
+   "priority": "Non Critical",
+   "nbhd_name": "Midtown-Times Square",
+   "n": 1478,
+   "no_arr": 599.0,
+   "closed_2min": 0.01962110960757781
+  },
+  {
+   "priority": "Non Critical",
+   "nbhd_name": "East Harlem (North)",
+   "n": 830,
+   "no_arr": 310.0,
+   "closed_2min": 0.03132530120481928
+  },
+  {
+   "priority": "Non Critical",
+   "nbhd_name": "East Village",
+   "n": 602,
+   "no_arr": 296.0,
+   "closed_2min": 0.03156146179401993
+  },
+  {
+   "priority": "Non Critical",
+   "nbhd_name": "Morningside Heights",
+   "n": 941,
+   "no_arr": 275.0,
+   "closed_2min": 0.007438894792773645
+  },
+  {
+   "priority": "Serious",
+   "nbhd_name": "Upper West Side (Central)",
+   "n": 1766,
+   "no_arr": 271.0,
+   "closed_2min": 0.0016987542468856172
+  },
+  {
+   "priority": "Non Critical",
+   "nbhd_name": "Fordham Heights",
+   "n": 1002,
+   "no_arr": 266.0,
+   "closed_2min": 0.001996007984031936
+  },
+  {
+   "priority": "Non Critical",
+   "nbhd_name": "Harlem (South)",
+   "n": 1015,
+   "no_arr": 253.0,
+   "closed_2min": 0.009852216748768473
+  },
+  {
+   "priority": "Non Critical",
+   "nbhd_name": "Harlem (North)",
+   "n": 722,
+   "no_arr": 252.0,
+   "closed_2min": 0.006925207756232687
+  },
+  {
+   "priority": "Non Critical",
+   "nbhd_name": "SoHo-Little Italy-Hudson Square",
+   "n": 587,
+   "no_arr": 249.0,
+   "closed_2min": 0.008517887563884156
+  },
+  {
+   "priority": "Non Critical",
+   "nbhd_name": "Midtown-Times Square",
+   "n": 712,
+   "no_arr": 242.0,
+   "closed_2min": 0.0056179775280898875
+  },
+  {
+   "priority": "Critical",
+   "nbhd_name": "Ocean Hill",
+   "n": 285,
+   "no_arr": 237.0,
+   "closed_2min": 0.5894736842105263
+  },
+  {
+   "priority": "Non Critical",
+   "nbhd_name": "Morrisania",
+   "n": 709,
+   "no_arr": 237.0,
+   "closed_2min": 0.0014104372355430183
+  },
+  {
+   "priority": "Non Critical",
+   "nbhd_name": "Melrose",
+   "n": 642,
+   "no_arr": 229.0,
+   "closed_2min": 0.03426791277258567
+  }
+ ],
+ "districts_starting_late": [
+  {
+   "district": null,
+   "first": "2022-04-10",
+   "events": 13
+  },
+  {
+   "district": "116",
+   "first": "2024-12-18",
+   "events": 70920
+  }
+ ],
+ "citywide_by_year": [
+  {
+   "priority": "Critical",
+   "year": 2022,
+   "n": 62525,
+   "arrived": 0.9614074370251899,
+   "med_wait": 4.383333333333334,
+   "mean_wait": 7.415824322076187,
+   "p90_wait": 12.2,
+   "med_dispatch": 1.0166666666666666,
+   "mean_dispatch": 2.2022220373759236,
+   "med_travel": 3.1166666666666667,
+   "mean_travel": 5.213602284700267
+  },
+  {
+   "priority": "Critical",
+   "year": 2023,
+   "n": 62845,
+   "arrived": 0.9585010740711274,
+   "med_wait": 4.616666666666666,
+   "mean_wait": 8.314562996657594,
+   "p90_wait": 13.741666666666667,
+   "med_dispatch": 1.1166666666666667,
+   "mean_dispatch": 2.6230960997852866,
+   "med_travel": 3.216666666666667,
+   "mean_travel": 5.691466896872299
+  },
+  {
+   "priority": "Critical",
+   "year": 2024,
+   "n": 62043,
+   "arrived": 0.963138468481537,
+   "med_wait": 4.733333333333333,
+   "mean_wait": 8.27246004518451,
+   "p90_wait": 13.866666666666667,
+   "med_dispatch": 1.1666666666666667,
+   "mean_dispatch": 2.4617994890160775,
+   "med_travel": 3.3,
+   "mean_travel": 5.8107190472205845
+  },
+  {
+   "priority": "Critical",
+   "year": 2025,
+   "n": 56914,
+   "arrived": 0.9651755279895984,
+   "med_wait": 4.683333333333334,
+   "mean_wait": 8.46561081579652,
+   "p90_wait": 13.8,
+   "med_dispatch": 1.1166666666666667,
+   "mean_dispatch": 2.586882873370716,
+   "med_travel": 3.283333333333333,
+   "mean_travel": 5.878727942425789
+  },
+  {
+   "priority": "Critical",
+   "year": 2026,
+   "n": 27175,
+   "arrived": 0.9529714811407544,
+   "med_wait": 4.7,
+   "mean_wait": 8.615198028085619,
+   "p90_wait": 13.790000000000024,
+   "med_dispatch": 1.1,
+   "mean_dispatch": 2.5904963251856725,
+   "med_travel": 3.316666666666667,
+   "mean_travel": 6.0247017028999466
+  },
+  {
+   "priority": "Non CIP",
+   "year": 2022,
+   "n": 2876836,
+   "arrived": 0.6115180010261273,
+   "med_wait": 23.933333333333334,
+   "mean_wait": 53.19619668380705,
+   "p90_wait": 139.61666666666667,
+   "med_dispatch": 3.3333333333333335,
+   "mean_dispatch": 10.647211000246829,
+   "med_travel": 16.183333333333334,
+   "mean_travel": 42.5494980285485
+  },
+  {
+   "priority": "Non CIP",
+   "year": 2023,
+   "n": 2959354,
+   "arrived": 0.6030711432292318,
+   "med_wait": 26.25,
+   "mean_wait": 60.98065217269555,
+   "p90_wait": 162.71666666666667,
+   "med_dispatch": 3.466666666666667,
+   "mean_dispatch": 12.758561945815792,
+   "med_travel": 17.833333333333332,
+   "mean_travel": 48.222512647727285
+  },
+  {
+   "priority": "Non CIP",
+   "year": 2024,
+   "n": 3022632,
+   "arrived": 0.6036388154429649,
+   "med_wait": 27.716666666666665,
+   "mean_wait": 62.53980368825855,
+   "p90_wait": 167.01666666666668,
+   "med_dispatch": 3.216666666666667,
+   "mean_dispatch": 10.84469641455316,
+   "med_travel": 19.7,
+   "mean_travel": 51.69580567333432
+  },
+  {
+   "priority": "Non CIP",
+   "year": 2025,
+   "n": 3104232,
+   "arrived": 0.5889546915307876,
+   "med_wait": 26.083333333333332,
+   "mean_wait": 61.674264915564066,
+   "p90_wait": 162.98333333333332,
+   "med_dispatch": 2.9166666666666665,
+   "mean_dispatch": 11.602671221674237,
+   "med_travel": 18.433333333333334,
+   "mean_travel": 50.07188953179017
+  },
+  {
+   "priority": "Non CIP",
+   "year": 2026,
+   "n": 1612133,
+   "arrived": 0.54407297660925,
+   "med_wait": 25.866666666666667,
+   "mean_wait": 61.95682469773491,
+   "p90_wait": 165.65,
+   "med_dispatch": 2.816666666666667,
+   "mean_dispatch": 11.89970514776316,
+   "med_travel": 18.25,
+   "mean_travel": 50.05711954996975
+  },
+  {
+   "priority": "Non Critical",
+   "year": 2022,
+   "n": 227685,
+   "arrived": 0.8618617827261348,
+   "med_wait": 9.6,
+   "mean_wait": 20.55488107129269,
+   "p90_wait": 46.36666666666667,
+   "med_dispatch": 2.05,
+   "mean_dispatch": 6.731944529381399,
+   "med_travel": 6.275,
+   "mean_travel": 13.823269137337556
+  },
+  {
+   "priority": "Non Critical",
+   "year": 2023,
+   "n": 239291,
+   "arrived": 0.8510809014965043,
+   "med_wait": 11.1,
+   "mean_wait": 26.08223708977822,
+   "p90_wait": 61.483333333333334,
+   "med_dispatch": 2.4,
+   "mean_dispatch": 9.166084043709406,
+   "med_travel": 7.0,
+   "mean_travel": 16.916392748997286
+  },
+  {
+   "priority": "Non Critical",
+   "year": 2024,
+   "n": 246972,
+   "arrived": 0.8532667670829082,
+   "med_wait": 11.9,
+   "mean_wait": 26.20896515396689,
+   "p90_wait": 61.68333333333333,
+   "med_dispatch": 2.45,
+   "mean_dispatch": 8.165883900338644,
+   "med_travel": 7.633333333333334,
+   "mean_travel": 18.04308125362816
+  },
+  {
+   "priority": "Non Critical",
+   "year": 2025,
+   "n": 241066,
+   "arrived": 0.858233844673243,
+   "med_wait": 11.4,
+   "mean_wait": 27.354635300107514,
+   "p90_wait": 63.0,
+   "med_dispatch": 2.1666666666666665,
+   "mean_dispatch": 8.65641182422528,
+   "med_travel": 7.583333333333333,
+   "mean_travel": 18.698273936979962
+  },
+  {
+   "priority": "Non Critical",
+   "year": 2026,
+   "n": 124204,
+   "arrived": 0.838008437731474,
+   "med_wait": 11.65,
+   "mean_wait": 28.841006782982998,
+   "p90_wait": 67.2,
+   "med_dispatch": 2.1,
+   "mean_dispatch": 8.917794441668914,
+   "med_travel": 7.883333333333334,
+   "mean_travel": 19.923212341313974
+  },
+  {
+   "priority": "Serious",
+   "year": 2022,
+   "n": 163806,
+   "arrived": 0.9326520396078287,
+   "med_wait": 6.133333333333334,
+   "mean_wait": 11.17124519705965,
+   "p90_wait": 21.366666666666667,
+   "med_dispatch": 1.2166666666666666,
+   "mean_dispatch": 3.041901167979087,
+   "med_travel": 4.483333333333333,
+   "mean_travel": 8.129344029080569
+  },
+  {
+   "priority": "Serious",
+   "year": 2023,
+   "n": 159103,
+   "arrived": 0.935670603319862,
+   "med_wait": 6.483333333333333,
+   "mean_wait": 12.43854103690569,
+   "p90_wait": 24.108333333333334,
+   "med_dispatch": 1.3333333333333333,
+   "mean_dispatch": 3.731779810926161,
+   "med_travel": 4.616666666666666,
+   "mean_travel": 8.706761225979518
+  },
+  {
+   "priority": "Serious",
+   "year": 2024,
+   "n": 153652,
+   "arrived": 0.941198292244813,
+   "med_wait": 6.6,
+   "mean_wait": 12.242019560116338,
+   "p90_wait": 23.766666666666666,
+   "med_dispatch": 1.3833333333333333,
+   "mean_dispatch": 3.3980248569755824,
+   "med_travel": 4.683333333333334,
+   "mean_travel": 8.843994703140785
+  },
+  {
+   "priority": "Serious",
+   "year": 2025,
+   "n": 142186,
+   "arrived": 0.95081794269478,
+   "med_wait": 6.066666666666666,
+   "mean_wait": 11.42555895812376,
+   "p90_wait": 21.2,
+   "med_dispatch": 1.2333333333333334,
+   "mean_dispatch": 3.1463607314042212,
+   "med_travel": 4.383333333333334,
+   "mean_travel": 8.279198226719553
+  },
+  {
+   "priority": "Serious",
+   "year": 2026,
+   "n": 65368,
+   "arrived": 0.946349895973565,
+   "med_wait": 5.9,
+   "mean_wait": 11.214295759848696,
+   "p90_wait": 20.6,
+   "med_dispatch": 1.1833333333333333,
+   "mean_dispatch": 3.152228921830122,
+   "med_travel": 4.266666666666667,
+   "mean_travel": 8.062066838018588
+  }
+ ]
+}

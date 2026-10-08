@@ -1,0 +1,80 @@
+{
+ "acs_release": "ACS 2024 5-year",
+ "tracts_with_data": 2327,
+ "tracts_matched": 2325,
+ "tracts_unassigned": 0,
+ "neighborhoods": 262,
+ "residential": 197,
+ "in_groups": 197,
+ "min_pop": 1000,
+ "residents_in_groups": 8475754,
+ "residents_total": 8483844,
+ "quintiles": [
+  {
+   "quintile": 1,
+   "neighborhoods": 41,
+   "residents": 1708998,
+   "income_min": 28470,
+   "income_max": 55341
+  },
+  {
+   "quintile": 2,
+   "neighborhoods": 36,
+   "residents": 1686435,
+   "income_min": 55669,
+   "income_max": 73563
+  },
+  {
+   "quintile": 3,
+   "neighborhoods": 37,
+   "residents": 1678878,
+   "income_min": 73805,
+   "income_max": 85739
+  },
+  {
+   "quintile": 4,
+   "neighborhoods": 40,
+   "residents": 1702532,
+   "income_min": 85891,
+   "income_max": 107044
+  },
+  {
+   "quintile": 5,
+   "neighborhoods": 43,
+   "residents": 1698911,
+   "income_min": 108826,
+   "income_max": 200000
+  }
+ ],
+ "makeup": [
+  {
+   "makeup": "Asian",
+   "neighborhoods": 6,
+   "residents": 224852
+  },
+  {
+   "makeup": "Black",
+   "neighborhoods": 27,
+   "residents": 1312600
+  },
+  {
+   "makeup": "Hispanic",
+   "neighborhoods": 37,
+   "residents": 1584848
+  },
+  {
+   "makeup": "No majority",
+   "neighborhoods": 75,
+   "residents": 3080801
+  },
+  {
+   "makeup": "White",
+   "neighborhoods": 52,
+   "residents": 2272653
+  }
+ ],
+ "capped_income": [
+  "Tribeca-Civic Center",
+  "Upper East Side-Carnegie Hill"
+ ]
+}

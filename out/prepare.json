@@ -1,0 +1,16 @@
+{
+ "raw_rows": 32121521,
+ "events": 31170059,
+ "duplicate_rows": 951462,
+ "by_source": {
+  "historic": 27817506,
+  "ytd": 3352553
+ },
+ "by_origin_rule": {
+  "public | none": 15610022,
+  "officer | directed patrols, visits and inspections (75 codes)": 11827406,
+  "on_scene | arrival logged in the same second as entry or dispatch": 3660891,
+  "sensor | ShotSpotter alert (10S4)": 45114,
+  "officer | officer asks for assistance (13 codes)": 26626
+ }
+}
