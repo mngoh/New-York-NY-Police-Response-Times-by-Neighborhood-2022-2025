@@ -301,5 +301,30 @@
   ],
   "method": "Calls from NYPD's dispatch data on NYC Open Data, 2022 to 2025, with January to June 2026 held out as a check. Rows that repeat an event are combined, keeping the first entry, dispatch and arrival. The wait runs from the call being entered (ADD_TS) to the first arrival (ARRIVD_TS), for calls with an arrival within 24 hours; each of NYPD's four priority categories is analyzed on its own. Neighborhoods are the [[j:neighborhoods.json|in_groups|d]] residential 2020 Neighborhood Tabulation Areas, grouped by median household income (fifths of residents) and by the group that is more than half of residents (Hispanic of any race; Black, White and Asian non-Hispanic), from the [[j:neighborhoods.json|acs_release|s]] estimates. Each group's calls are reweighted to the citywide mix of call type, hour of the week and precinct busyness; 95% intervals come from [[j:results.json|bootstrap|,]] resamples of neighborhoods, and p-values are Holm-adjusted across the 20 planned comparisons. The plan, with the smallest gaps that matter (1 minute for Critical calls, 20% for the rest), was committed before the analysis ran. Citywide medians match the city's 911 End-to-End figures.",
   "sources": "NYPD Calls for Service, Historic (d6zx-ckhd) and Year to Date (n2zq-pubd); NYC 911 End-to-End Data (t7p9-n9dy); 2020 Neighborhood Tabulation Areas (9nt8-h7nd), 2020 Census Tracts (63ge-mke6) and Police Precincts (y76i-bdw7), all NYC Open Data; NYPD precinct list, geocoded with NYC Planning GeoSearch; NYPD Officer Profile (pmsy-ewrc), counts by command; American Community Survey via Census Reporter."
+ },
+ "map": {
+  "path": "map.html",
+  "title": "How long 911 calls waited for police, by neighborhood",
+  "subtitle": "Each neighborhood's typical wait against the citywide typical wait for the same kind of call, calls from the public, 2022 to 2025.",
+  "tiers": {
+   "urgent": {
+    "label": "Urgent calls",
+    "priorities": [
+     "Critical",
+     "Serious"
+    ],
+    "note": "Critical and Serious crimes in progress, such as robberies, burglaries and assaults."
+   },
+   "less": {
+    "label": "Less urgent calls",
+    "priorities": [
+     "Non Critical",
+     "Non CIP"
+    ],
+    "note": "Non-critical crimes in progress and calls not about a crime in progress, such as harassment, disputes, alarms and ambulance cases."
+   }
+  },
+  "aria": "Bubble map of New York's 197 residential neighborhoods. Each bubble's color shows how long calls there typically waited for police against the citywide typical wait for the same call type; size shows calls a year. A switch shows urgent or less urgent calls.",
+  "source": "Wait from the call being entered to the first officer arriving, compared with the citywide median for the same call type. Source: NYPD Calls for Service, NYC Open Data; neighborhoods are 2020 Neighborhood Tabulation Areas; income from the American Community Survey 2020 to 2024."
  }
 }
