@@ -112,9 +112,9 @@ The adjusted median and 90th percentile are weighted quantiles. Weights are capp
 - **p-value**: two-sided, from the bootstrap standard error.
 - **Multiple comparisons**: Holm-Bonferroni across the 20 primary tests, at 0.05.
 
-## Smallest gap that matters (proposed, to be confirmed before running)
+## Smallest gap that matters (confirmed 2026-10-08, before the analysis ran)
 
-- **Critical**: 2 minutes in adjusted median.
+- **Critical**: 1 minute in adjusted median (about 20% of the citywide Critical median of 4.7 minutes).
 - **Serious, Non-critical, Not a crime in progress**: 20% of the reference group's adjusted median.
 
 Each primary result is classed, in either direction:
@@ -186,4 +186,4 @@ Neutral voice. Neighborhoods are described by their makeup ("majority-Black neig
 
 ## Changes after the plan was committed
 
-None yet.
+- 2026-10-08, before the analysis ran: the Critical bar was set to 1 minute instead of the proposed 2. Two minutes is about 43% of the Critical median, against 20% for the other categories; 1 minute puts all four on about the same relative bar. Martin chose it after seeing only the noise level from a run with neighborhood labels shuffled at random (about plus or minus 0.4 minutes for Critical), not any real comparison.

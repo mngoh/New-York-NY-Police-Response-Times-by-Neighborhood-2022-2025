@@ -238,7 +238,7 @@
   "volume_bands": 5,
   "thresholds": {
    "Critical": {
-    "minutes": 2
+    "minutes": 1
    },
    "default": {
     "percent": 20
