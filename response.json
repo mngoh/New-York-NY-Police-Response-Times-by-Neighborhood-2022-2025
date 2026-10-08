@@ -324,7 +324,29 @@
     "note": "Non-critical crimes in progress and calls not about a crime in progress, such as harassment, disputes, alarms and ambulance cases."
    }
   },
-  "aria": "Bubble map of New York's 197 residential neighborhoods. Each bubble's color shows how long calls there typically waited for police against the citywide typical wait for the same call type; size shows calls a year. A switch shows urgent or less urgent calls.",
-  "source": "Wait from the call being entered to the first officer arriving, compared with the citywide median for the same call type. Source: NYPD Calls for Service, NYC Open Data; neighborhoods are 2020 Neighborhood Tabulation Areas; income from the American Community Survey 2020 to 2024."
+  "aria": "Map of New York's neighborhoods, each shaded by how long its calls typically waited for police against the citywide typical wait for the same call type. A switch shows urgent or less urgent calls.",
+  "source": "Wait from the call being entered to the first officer arriving, compared with the citywide median for the same call type. Source: NYPD Calls for Service, NYC Open Data; neighborhoods are 2020 Neighborhood Tabulation Areas; income from the American Community Survey 2020 to 2024.",
+  "label_points": {
+   "Manhattan": [
+    -73.985,
+    40.77
+   ],
+   "Brooklyn": [
+    -73.95,
+    40.645
+   ],
+   "Queens": [
+    -73.82,
+    40.71
+   ],
+   "Bronx": [
+    -73.865,
+    40.85
+   ],
+   "Staten Island": [
+    -74.15,
+    40.58
+   ]
+  }
  }
 }
