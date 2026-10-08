@@ -5,7 +5,7 @@ Do 911 calls wait longer for police to arrive in some New York neighborhoods tha
 NYPD calls for service from NYC Open Data, 2022 to 2025, with January to June 2026 held out as a check, compared across the city's residential neighborhoods (2020 Neighborhood Tabulation Areas) grouped by income and by racial and ethnic makeup. The plan, committed before the comparison ran, is in [PLAN.md](PLAN.md).
 
 <!-- results:start -->
-**New York's most urgent 911 calls wait under a minute longer for police in lower-income, majority-Black and majority-Hispanic neighborhoods than in the highest-income and majority-White ones. Less urgent calls wait 28% to 79% longer. Inside the same precinct, the gaps disappear.**
+**Urgent 911 calls in New York wait about the same across neighborhoods. Less urgent calls don't.**
 
 Critical calls: an adjusted median of 5.0 minutes in the lowest-income fifth of neighborhoods and 4.1 in the highest; 4.9 in majority-Black, 5.0 in majority-Hispanic and 4.2 in majority-White neighborhoods. Gaps of 0.6 to 0.8 minutes, under the 1-minute bar (intervals reach about 1.1). Serious calls: about 0.9 minutes, under the 20% bar.
 

@@ -266,7 +266,7 @@
     "Hispanic"
    ]
   },
-  "headline": "New York's most urgent 911 calls wait under a minute longer for police in lower-income, majority-Black and majority-Hispanic neighborhoods than in the highest-income and majority-White ones. Less urgent calls wait [[p:Non Critical|makeup|Black|rel|pct]] to [[p:Non CIP|makeup|Hispanic|rel|pct]] longer. Inside the same precinct, the gaps disappear.",
+  "headline": "Urgent 911 calls in New York wait about the same across neighborhoods. Less urgent calls don't.",
   "question": "Do 911 calls wait longer for police to arrive in some New York neighborhoods than in others, at the same call priority?",
   "answer": [
    "Critical calls: an adjusted median of [[lv:Critical|income|1|adj_50|.1f]] minutes in the lowest-income fifth of neighborhoods and [[lv:Critical|income|5|adj_50|.1f]] in the highest; [[lv:Critical|makeup|Black|adj_50|.1f]] in majority-Black, [[lv:Critical|makeup|Hispanic|adj_50|.1f]] in majority-Hispanic and [[lv:Critical|makeup|White|adj_50|.1f]] in majority-White neighborhoods. Gaps of [[p:Critical|makeup|Black|diff|.1f]] to [[p:Critical|income|1|diff|.1f]] minutes, under the 1-minute bar (intervals reach about [[p:Critical|income|1|diff_hi|.1f]]). Serious calls: about [[p:Serious|income|1|diff|.1f]] minutes, under the 20% bar.",
