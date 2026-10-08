@@ -9,3 +9,5 @@ out/shuffled/
 .DS_Store
 __pycache__/
 out/shuffled_run.log
+.claude/
+out/analyze.log
